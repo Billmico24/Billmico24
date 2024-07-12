@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 - 👨‍💻 Personal portfolio: **<a href="https://github.com/Billmico24/My-Portfolio" target="_blank">Portfolio</a>**
-- 📫 How to reach me: **karanchandekar431@gmail.com**
-- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
+- 📫 How to reach me: **Billmico24@gmail.com**
+- ⚡ Fun fact **I graduated from a Fullstack Bootcamp ❤️**
 
 ### 🧰 Tech Stack
 
