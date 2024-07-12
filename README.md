@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](./gere.png)
 
 
 ### 🚀 More about me
