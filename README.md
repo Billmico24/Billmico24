@@ -4,7 +4,7 @@
 ### 🚀 More about me
 
 - 🌱 I’m currently learning **Fullstack Development**
-- 👨‍💻 Personal portfolio: **<a href="https://github.com/Billmico24/My-Portfolio" target="_blank">Portfolio</a>**
+- 👨‍💻 Personal portfolio: **<a href="https://billmico-portfolio.netlify.app/" target="_blank">Portfolio</a>**
 - 📫 How to reach me: **Billmico24@gmail.com**
 - ⚡ Fun fact **I graduated from a Fullstack Bootcamp ❤️**
 
